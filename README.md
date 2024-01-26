@@ -1,3 +1,3 @@
-# Llearning About Version Control
+# Learning About Version Control
 
 Author: Rashi Selarka
